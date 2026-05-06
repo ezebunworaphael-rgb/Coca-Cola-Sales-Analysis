@@ -27,3 +27,4 @@ Design: Dark-themed UI for high-contrast professional reporting
 ## Project Structure
 <img width="1365" height="767" alt="Power query screenshot" src="https://github.com/user-attachments/assets/b22eca21-5a80-41b9-bc6e-2ac95901c84e" />
 <img width="1218" height="548" alt="Power Bi 1" src="https://github.com/user-attachments/assets/d7c1909e-9fac-41fc-9dac-334a0b5a122e" />
+<img width="1220" height="547" alt="Power BI 2" src="https://github.com/user-attachments/assets/6c6edd2a-b2e9-44db-b272-cac20d2af365" />
