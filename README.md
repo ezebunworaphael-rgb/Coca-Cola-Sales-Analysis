@@ -30,7 +30,8 @@ Design: Dark-themed UI for high-contrast professional reporting
 <img width="1220" height="547" alt="Power BI 2" src="https://github.com/user-attachments/assets/6c6edd2a-b2e9-44db-b272-cac20d2af365" />
 ## Raw Data
 [CocaCola_Sales_2024.csv](https://github.com/user-attachments/files/27457369/CocaCola_Sales_2024.csv)
-# How To Use
+
+##How To Use
 Filter by Representative: Use the "Sales Rep" slicer to track individual performance (e.g., Ada, Chinedu, Peter).
 
 Product Deep Dive: Filter by specific products to see how their sales trend over different months.
