@@ -35,4 +35,5 @@ Design: Dark-themed UI for high-contrast professional reporting
 ## How To Use
 Filter by Representative: Use the "Sales Rep" slicer to track individual performance (e.g., Ada, Chinedu, Peter).
 Product Deep Dive: Filter by specific products to see how their sales trend over different months.
+
 Regional Analysis: Drill down into specific regions (East, North, West, South) to understand localized market behavior.
