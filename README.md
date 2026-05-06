@@ -37,3 +37,7 @@ Filter by Representative: Use the "Sales Rep" slicer to track individual perform
 Product Deep Dive: Filter by specific products to see how their sales trend over different months.
 
 Regional Analysis: Drill down into specific regions (East, North, West, South) to understand localized market behavior.
+## Future Enhancement
+Integration of 2023 data for Year-over-Year (YoY) growth analysis.
+Forecasting future sales trends using moving averages.
+Adding "Cost of Goods Sold" (COGS) to calculate net profit margins.
