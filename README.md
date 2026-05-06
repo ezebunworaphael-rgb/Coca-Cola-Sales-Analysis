@@ -27,3 +27,9 @@ Product Mix: Analysis includes Diet Coke, Sprite, and Fanta, providing a full vi
 Market Share: The East Region is the top performer ($96.06K / 27.93% of total sales).
 
 Balanced Reach: The North, West, and South regions maintain a competitive and relatively balanced distribution of revenue.
+## Tools Used
+Data Visualization: Power BI / Excel (select the one you used)
+
+Data Processing: Power Query 
+
+Design: Dark-themed UI for high-contrast professional reporting
