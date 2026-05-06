@@ -24,3 +24,5 @@ Data Visualization: Power BI / Excel (select the one you used)
 Data Processing: Power Query 
 
 Design: Dark-themed UI for high-contrast professional reporting
+## Project Structure
+<img width="1365" height="767" alt="Power query screenshot" src="https://github.com/user-attachments/assets/b22eca21-5a80-41b9-bc6e-2ac95901c84e" />
